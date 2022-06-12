@@ -60,3 +60,17 @@ border-radius: 15px;
 .section-randominfo>h1{
     text-align: center;
 }
+
+.testimonial-section{
+    background-color: lightgray;
+    padding: 100px 300px;
+}
+
+.quote{
+    font-style: italic;
+    text-align: center;
+}
+
+.quote-sub{
+    text-align: right;
+}
