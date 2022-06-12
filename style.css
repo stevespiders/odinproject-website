@@ -1,0 +1,45 @@
+body{
+    font-style: roboto;
+    padding:25px;
+}
+
+.hero-div{
+    background-color: #1F2937;
+    padding: 50px 0px;
+}
+
+.nav-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.hero-content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.hero-img{
+    width:250px;
+    height:150px;
+}
+
+.hero-text{
+    width: 350px!important;
+}
+
+.hero-text,h1{
+    color:white;
+}
+
+.hero-text,p{
+    color:lightgrey;
+}
+
+.hero-cta{
+padding: 10px 35px;
+background-color: aquamarine;
+border-radius: 15px;
+}

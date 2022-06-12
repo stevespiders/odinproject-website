@@ -1,0 +1,1 @@
+Thanks for checking out my odin project webpage! This is an exercise that I'm doing to recreatea webpage that has been provided by the odin project. Wish me luck! Stefan
